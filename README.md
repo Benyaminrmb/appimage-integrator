@@ -21,7 +21,7 @@ A modern, user-friendly tool to integrate AppImage applications into your Linux 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/appimage-integrator.git
+git clone https://github.com/benyaminrmb/appimage-integrator.git
 
 # Enter the directory
 cd appimage-integrator
@@ -39,7 +39,7 @@ cd appimage-integrator
 
 2. Clone and install:
    ```bash
-   git clone https://github.com/yourusername/appimage-integrator.git
+   git clone https://github.com/benyaminrmb/appimage-integrator.git
    cd appimage-integrator
    mkdir -p ~/.local/bin
    cp -r lib/* ~/.local/lib/appimage-integrator/
@@ -112,6 +112,6 @@ If you find this tool helpful, please consider:
 
 ## Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
+Your Name - [@benyaminrmb](https://twitter.com/benyaminrmb)
 
-Project Link: [https://github.com/yourusername/appimage-integrator](https://github.com/yourusername/appimage-integrator) 
+Project Link: [https://github.com/benyaminrmb/appimage-integrator](https://github.com/benyaminrmb/appimage-integrator) 
